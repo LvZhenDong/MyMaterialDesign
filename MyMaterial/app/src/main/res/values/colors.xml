@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Material Design Color-->
+    <color name="drawerLayout_LL_background">#673AB7</color>
+    <color name="drawerLayout_LL_main_background">#009688</color>
+</resources>
